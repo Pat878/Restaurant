@@ -3,7 +3,7 @@ $(document).ready(function() {
   $("#1").click(function callback() {
     $("#content").empty()
 
-    $("#content").append("I Make Great Pie")
+    $("#content").append("I Make Great Pie.")
 
   })
 
