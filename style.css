@@ -30,3 +30,5 @@ div.tab button:hover {
 div.tab button.active {
     background-color: #ccc;
 }
+
+#content {padding: 20px}
