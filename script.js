@@ -1,5 +1,7 @@
 $(document).ready(function() {
 
+$(".image").append('<img src="http://cookdiary.net/wp-content/uploads/images/Pizza-Pie_9782.jpg">')
+
   $("#1").click(function callback() {
     $("#content").empty()
 
